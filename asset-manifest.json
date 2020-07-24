@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/netfix-clone/static/css/main.de015520.chunk.css",
+    "main.js": "/netfix-clone/static/js/main.0d13dea5.chunk.js",
+    "main.js.map": "/netfix-clone/static/js/main.0d13dea5.chunk.js.map",
+    "runtime-main.js": "/netfix-clone/static/js/runtime-main.0dd9a8e4.js",
+    "runtime-main.js.map": "/netfix-clone/static/js/runtime-main.0dd9a8e4.js.map",
+    "static/js/2.37164868.chunk.js": "/netfix-clone/static/js/2.37164868.chunk.js",
+    "static/js/2.37164868.chunk.js.map": "/netfix-clone/static/js/2.37164868.chunk.js.map",
+    "index.html": "/netfix-clone/index.html",
+    "precache-manifest.6afbbb3446f452fb28c9700b691af346.js": "/netfix-clone/precache-manifest.6afbbb3446f452fb28c9700b691af346.js",
+    "service-worker.js": "/netfix-clone/service-worker.js",
+    "static/css/main.de015520.chunk.css.map": "/netfix-clone/static/css/main.de015520.chunk.css.map",
+    "static/js/2.37164868.chunk.js.LICENSE.txt": "/netfix-clone/static/js/2.37164868.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dd9a8e4.js",
+    "static/js/2.37164868.chunk.js",
+    "static/css/main.de015520.chunk.css",
+    "static/js/main.0d13dea5.chunk.js"
+  ]
+}
